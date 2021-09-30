@@ -16,3 +16,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 move inside server folder and run below command 
 
 ### `npm start`
+
+
+## to run tests 
+### npm run test

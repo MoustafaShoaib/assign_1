@@ -1,0 +1,9 @@
+{
+    "contacts": [
+      {
+        "id": "b60fb2da-a783-4d37-86c5-e619b3503d61",
+        "name": "test",
+        "email": "test@test.com"
+      }
+    ]
+  }
